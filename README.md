@@ -2,7 +2,7 @@
 
 my name is **pin** (a.k.a. Luiz Felipe)
 
-- 📍 born, raised and living in brazil since '85
+- 📍 born, raised and living in brazil since 1985
 - 🏢 currently working as software engineer since 2008
 - ❤️ passionate about health and fitness, nutrition, each and every sport on earth (and maybe out of it, if I ever get the chance)
 - 💪 I'm also a mediocre bodybuilder, trying to get to 212/7%@5'8, missing a few pounds :(
