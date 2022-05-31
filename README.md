@@ -18,6 +18,12 @@ my name is **pin** (a.k.a. Luiz Felipe)
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=luizfelipefb&count_private=true&show_icons=true&theme=onedark)
 
+<h2>coffee</h2>
+
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2)
+
+![bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2](https://user-images.githubusercontent.com/3042811/171181386-578efcd9-b20d-4d37-91e3-5a3270b29f4d.png)
+
 <h2>outro</h2>
 
 ktnxbye
