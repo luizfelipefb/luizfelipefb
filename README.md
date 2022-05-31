@@ -22,7 +22,7 @@ my name is **pin** (a.k.a. Luiz Felipe)
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2)
 
-![bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2](https://user-images.githubusercontent.com/3042811/171181386-578efcd9-b20d-4d37-91e3-5a3270b29f4d.png)
+<img src="bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2.png" alt="bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2" width="100"/>
 
 <h2>outro</h2>
 
