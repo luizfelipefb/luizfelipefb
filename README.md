@@ -12,7 +12,7 @@ my name is **pin** (a.k.a. Luiz Felipe)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/luizfelipefb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizfelipefb)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizfelipefb)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/luizfelipefb)
+[![X](https://img.shields.io/badge/follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/in/luizfelipefb)
 
 <h2>stats</h2>
 
@@ -20,7 +20,7 @@ my name is **pin** (a.k.a. Luiz Felipe)
 
 <h2>coffee</h2>
 
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-f7931a?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/btc/address/bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2)
 
 <img src="bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2.png" alt="bc1q3550fjrp07qupde57wxqqvh3npyqhttxn8prm2" width="100"/>
 
